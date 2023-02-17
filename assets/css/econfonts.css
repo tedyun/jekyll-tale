@@ -1,5 +1,5 @@
 /*
- * Based on https://design-system.economist.com/dist/5.38.1/umd/common.css
+ * Based on https://design-system.economist.com/dist/5.99.2/umd/common.css
  * Documentation: https://design-system.economist.com/foundations/typography/typefaces#milo
  */
 
@@ -8,7 +8,7 @@
     font-family: EconSansOS;
     font-style: normal;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-li.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-li.woff) format("woff")
 }
 
 @font-face {
@@ -16,7 +16,7 @@
     font-family: EconSansOS;
     font-style: italic;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-li-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-li-it.woff) format("woff")
 }
 
 @font-face {
@@ -24,7 +24,7 @@
     font-family: EconSansOS;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -32,7 +32,7 @@
     font-family: EconSansOS;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -40,7 +40,7 @@
     font-family: EconSansOS;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -48,7 +48,7 @@
     font-family: EconSansOS;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -56,7 +56,7 @@
     font-family: EconSansOS;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -64,7 +64,7 @@
     font-family: EconSansOS;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-bd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -72,7 +72,7 @@
     font-family: EconSansOS;
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-xbd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-xbd.woff) format("woff")
 }
 
 @font-face {
@@ -80,7 +80,7 @@
     font-family: EconSansOS;
     font-style: italic;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-primary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-primary-subset-xbd-it.woff) format("woff")
 }
 
 @font-face {
@@ -88,7 +88,7 @@
     font-family: EconSansOSSec;
     font-style: normal;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-li.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-li.woff) format("woff")
 }
 
 @font-face {
@@ -96,7 +96,7 @@
     font-family: EconSansOSSec;
     font-style: italic;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-li-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-li-it.woff) format("woff")
 }
 
 @font-face {
@@ -104,7 +104,7 @@
     font-family: EconSansOSSec;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -112,7 +112,7 @@
     font-family: EconSansOSSec;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -120,7 +120,7 @@
     font-family: EconSansOSSec;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -128,7 +128,7 @@
     font-family: EconSansOSSec;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -136,7 +136,7 @@
     font-family: EconSansOSSec;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -144,7 +144,7 @@
     font-family: EconSansOSSec;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-bd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -152,7 +152,7 @@
     font-family: EconSansOSSec;
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-xbd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-xbd.woff) format("woff")
 }
 
 @font-face {
@@ -160,7 +160,87 @@
     font-family: EconSansOSSec;
     font-style: italic;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-secondary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-secondary-subset-xbd-it.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: normal;
+    font-weight: 300;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-li.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: italic;
+    font-weight: 300;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-li-it.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-rg.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: italic;
+    font-weight: 400;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-rg-it.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: normal;
+    font-weight: 500;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-md.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: italic;
+    font-weight: 500;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-md-it.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-bd.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: italic;
+    font-weight: 700;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-bd-it.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: normal;
+    font-weight: 800;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-xbd.woff) format("woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: EconSansSC;
+    font-style: italic;
+    font-weight: 800;
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-smallcaps-xbd-it.woff) format("woff")
 }
 
 @font-face {
@@ -168,7 +248,7 @@
     font-family: MiloTE;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -176,7 +256,7 @@
     font-family: MiloTE;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -184,7 +264,7 @@
     font-family: MiloTE;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -192,7 +272,7 @@
     font-family: MiloTE;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -200,7 +280,7 @@
     font-family: MiloTE;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -208,23 +288,7 @@
     font-family: MiloTE;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-bd-it.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTE;
-    font-style: normal;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-xbd.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTE;
-    font-style: italic;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-primary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-primary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -232,7 +296,7 @@
     font-family: MiloTESec;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -240,7 +304,7 @@
     font-family: MiloTESec;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -248,7 +312,7 @@
     font-family: MiloTESec;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -256,7 +320,7 @@
     font-family: MiloTESec;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -264,7 +328,7 @@
     font-family: MiloTESec;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -272,23 +336,7 @@
     font-family: MiloTESec;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-bd-it.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTESec;
-    font-style: normal;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-xbd.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTESec;
-    font-style: italic;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-secondary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-secondary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -296,7 +344,7 @@
     font-family: MiloTESC;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-rg.woff) format("woff")
 }
 
 @font-face {
@@ -304,7 +352,7 @@
     font-family: MiloTESC;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -312,7 +360,7 @@
     font-family: MiloTESC;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-md.woff) format("woff")
 }
 
 @font-face {
@@ -320,7 +368,7 @@
     font-family: MiloTESC;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -328,7 +376,7 @@
     font-family: MiloTESC;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-bd.woff) format("woff")
 }
 
 @font-face {
@@ -336,23 +384,7 @@
     font-family: MiloTESC;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-bd-it.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTESC;
-    font-style: normal;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-xbd.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloTESC;
-    font-style: italic;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-smallcaps-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-smallcaps-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -360,7 +392,7 @@
     font-family: MiloLNTE;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -368,7 +400,7 @@
     font-family: MiloLNTE;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -376,7 +408,7 @@
     font-family: MiloLNTE;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -384,7 +416,7 @@
     font-family: MiloLNTE;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -392,7 +424,7 @@
     font-family: MiloLNTE;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -400,23 +432,7 @@
     font-family: MiloLNTE;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-bd-it.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloLNTE;
-    font-style: normal;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-xbd.woff) format("woff")
-}
-
-@font-face {
-    font-display: swap;
-    font-family: MiloLNTE;
-    font-style: italic;
-    font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/milo-lining-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/milo-lining-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -424,7 +440,7 @@
     font-family: EconSansCnd;
     font-style: normal;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-li.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-li.woff) format("woff")
 }
 
 @font-face {
@@ -432,7 +448,7 @@
     font-family: EconSansCnd;
     font-style: italic;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-li-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-li-it.woff) format("woff")
 }
 
 @font-face {
@@ -440,7 +456,7 @@
     font-family: EconSansCnd;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -448,7 +464,7 @@
     font-family: EconSansCnd;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -456,7 +472,7 @@
     font-family: EconSansCnd;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -464,7 +480,7 @@
     font-family: EconSansCnd;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -472,7 +488,7 @@
     font-family: EconSansCnd;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -480,7 +496,7 @@
     font-family: EconSansCnd;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-bd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -488,7 +504,7 @@
     font-family: EconSansCnd;
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-xbd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-xbd.woff) format("woff")
 }
 
 @font-face {
@@ -496,7 +512,7 @@
     font-family: EconSansCnd;
     font-style: italic;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-primary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-primary-subset-xbd-it.woff) format("woff")
 }
 
 @font-face {
@@ -504,7 +520,7 @@
     font-family: EconSansCndSec;
     font-style: normal;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-li.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-li.woff) format("woff")
 }
 
 @font-face {
@@ -512,7 +528,7 @@
     font-family: EconSansCndSec;
     font-style: italic;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-li-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-li-it.woff) format("woff")
 }
 
 @font-face {
@@ -520,7 +536,7 @@
     font-family: EconSansCndSec;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -528,7 +544,7 @@
     font-family: EconSansCndSec;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -536,7 +552,7 @@
     font-family: EconSansCndSec;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -544,7 +560,7 @@
     font-family: EconSansCndSec;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -552,7 +568,7 @@
     font-family: EconSansCndSec;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -560,7 +576,7 @@
     font-family: EconSansCndSec;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-bd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -568,7 +584,7 @@
     font-family: EconSansCndSec;
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-xbd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-xbd.woff) format("woff")
 }
 
 @font-face {
@@ -576,7 +592,7 @@
     font-family: EconSansCndSec;
     font-style: italic;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-condensed-secondary-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-condensed-secondary-subset-xbd-it.woff) format("woff")
 }
 
 @font-face {
@@ -584,7 +600,7 @@
     font-family: EconSansLin;
     font-style: normal;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-li.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-li.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-li.woff) format("woff")
 }
 
 @font-face {
@@ -592,7 +608,7 @@
     font-family: EconSansLin;
     font-style: italic;
     font-weight: 300;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-li-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-li-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-li-it.woff) format("woff")
 }
 
 @font-face {
@@ -600,7 +616,7 @@
     font-family: EconSansLin;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-rg.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-rg.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-rg.woff) format("woff")
 }
 
 @font-face {
@@ -608,7 +624,7 @@
     font-family: EconSansLin;
     font-style: italic;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-rg-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-rg-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-rg-it.woff) format("woff")
 }
 
 @font-face {
@@ -616,7 +632,7 @@
     font-family: EconSansLin;
     font-style: normal;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-md.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-md.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-md.woff) format("woff")
 }
 
 @font-face {
@@ -624,7 +640,7 @@
     font-family: EconSansLin;
     font-style: italic;
     font-weight: 500;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-md-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-md-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-md-it.woff) format("woff")
 }
 
 @font-face {
@@ -632,7 +648,7 @@
     font-family: EconSansLin;
     font-style: normal;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-bd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-bd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-bd.woff) format("woff")
 }
 
 @font-face {
@@ -640,7 +656,7 @@
     font-family: EconSansLin;
     font-style: italic;
     font-weight: 700;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-bd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-bd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-bd-it.woff) format("woff")
 }
 
 @font-face {
@@ -648,7 +664,7 @@
     font-family: EconSansLin;
     font-style: normal;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-xbd.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-xbd.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-xbd.woff) format("woff")
 }
 
 @font-face {
@@ -656,7 +672,7 @@
     font-family: EconSansLin;
     font-style: italic;
     font-weight: 800;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/econsans-lining-subset-xbd-it.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-xbd-it.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/econsans-lining-subset-xbd-it.woff) format("woff")
 }
 
 @font-face {
@@ -664,5 +680,5 @@
     font-family: EcoPict;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/ecopict-two.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.38.1/common/static/fonts/ecopict-two.woff) format("woff")
+    src: url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/ecopict-two.woff2) format("woff2"),url(https://cdn.design-system.economist.com/assets/5.99.2/common/static/fonts/ecopict-two.woff) format("woff")
 }
